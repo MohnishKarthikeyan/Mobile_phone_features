@@ -1,6 +1,6 @@
 # Mobile_phone_features
 > I've Created a website which gives some useful infos about iPhone 12 mobile phone
--Battery
+->Battery
 -Processor
 -Camera
 -Display
