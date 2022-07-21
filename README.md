@@ -4,4 +4,4 @@
 - Processor
 - Camera
 - Display
-> I've Used HTML CSS and JAVASCRIPTS
+> I've used HTML CSS and JAVASCRIPTS.
