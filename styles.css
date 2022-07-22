@@ -178,3 +178,53 @@ nav
 	margin: 25px;
 }
 .flex-items li a { text-decoration: none; }
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+#moh {
+  background-color: navy;
+  color: white;
+  font-size: 17px;
+  cursor:pointer;
+  width:200px;
+  text-align:center;
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+}
+.dropdown-content 
+{
+  display: none;
+  position: absolute;
+  background-color: lightblue;
+  min-width: 150px;
+  z-index: 1;
+  color: navy;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 16px;
+}
+.dropdown-content a {
+  padding: 12px;
+  text-decoration: none;
+  display: block;
+}
+#moh:hover .dropdown-content
+{
+	display: block;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-content a:hover ,.dropdown-content a:visited
+{
+background-color:white;
+color: navy;
+}
+#moh:hover
+{ 
+	background-color: white; color: navy; 
+}
