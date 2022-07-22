@@ -69,7 +69,7 @@ nav
 	position: absolute;
 	border-radius: 50%;
 	transform: rotate(0deg);
-	transition: 1s;
+	transition: 1.5s;
 }
 .feature img { width: 70px; }
 .feature
@@ -164,3 +164,17 @@ nav
 	top: 0;
 	left: 0;
 }
+.flex-cont 
+{
+	width: 100%;
+	display: flex;
+	overflow: hidden;
+	position: fixed;
+}
+.flex-items li 
+{
+	display: inline;
+	list-style: none;
+	margin: 25px;
+}
+.flex-items li a { text-decoration: none; }
