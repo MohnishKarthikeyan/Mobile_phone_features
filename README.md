@@ -4,4 +4,4 @@
 - Processor
 - Camera
 - Display
-> I've used HTML CSS and JAVASCRIPTS.
+> I've used HTML CSS and JAVASCRIPTS to develop this website.
